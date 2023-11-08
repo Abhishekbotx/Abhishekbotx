@@ -6,7 +6,7 @@ Do you like my profile😎?
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishekbotx&show_icons=true&theme=radical"/>
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbotx&theme=tokyonight"/>
+  <img width="51%" height="110%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekbotx&theme=tokyonight"/>
 </p>
 
 
