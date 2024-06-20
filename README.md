@@ -2,7 +2,7 @@
 
 <img  width="20%" align='right' src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
  
- I am **Abhishek Raj** a final year *Engineering* student
+ I am **Abhishek Raj** a  *Full Stack developer* 
 
 - Enthusiastic about technology since 9th grade
 
