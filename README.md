@@ -1,16 +1,15 @@
-## Hey there folks👋
+## Hey there👋
 
-<img  width="20%" align='right' src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
- 
- I am **Abhishek Raj** a  *Full Stack developer* 
+<img width="20%" align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-- Enthusiastic about technology since 9th grade
+I'm **Abhishek Raj**, a **Backend-Focused Full Stack Developer** passionate about designing scalable systems and building real-world products.
 
-- Coding, Learning, and Exploring
-
-- Enthusiastic about Data Structures and Algorithms
-
-- Seeking new challenges and connections
+- 🧠 2+ years of experience building **ERPs**, **SaaS applications**, and **real-time web systems**
+- 💻 Skilled in TypeScript, JavaScript (ES6+), Node.js, React.js, Flask, Golang, etc.
+- ⚙️ Experienced with **Redis**, **Kafka**, **Docker**, and **AWS**
+- 🧩 Strong in **system design**, **data structures**, and **performance optimization**
+- 🚀 Currently working and  contributing to ERP solutions for construction and elevator management
+- 🌱 Exploring **AI integration** in backend systems
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhishek_talks3) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-raj-003bb3264) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flacksbox) 
